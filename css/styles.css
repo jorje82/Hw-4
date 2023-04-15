@@ -350,12 +350,12 @@ border-color: #404bbf;
 
 }
 .client-win{
-  fill:currentColor;
- ;
+  fill:#8E8F99;
+  width="104px";
+  height="56px";
 }
 .client-win:hover,
-.client-win:focus {
-  fill:currentColor;
+.client-win:focus{
   border-color: #404bbf;
 }
 
