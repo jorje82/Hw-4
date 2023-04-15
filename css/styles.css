@@ -423,3 +423,32 @@ footer {
   background-color: #2e2f42;
   padding: 100px 0;
 }
+.footer-container{
+  display: flex;
+  align-items: baseline;
+  margin-right: 120px
+}
+.footer-social{
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+  margin-bottom: 16px;
+
+}
+.footer-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+    width: 40px;
+    height: 40px;
+    background-color:#4d5ae5;
+   border-radius: 50%;
+   fill: #F4F4FD;
+
+}
+.footer-item:hover,
+.footer-item:focus{
+  background-color: #31d0aa;
+}
