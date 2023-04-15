@@ -343,10 +343,21 @@ height: 88px;
 border: 1px solid #8e8f99;
 border-radius: 4px;
 }
+.menu-clienys:hover,
+.menu-clienys:focus{
+background-color:  #FFFFFF;
+border: 1px solid #404bbf;
+}
 .client-win{
   fill: currentColor;
-}
+  color: #8E8F99;
 
+}
+.client-win:hover,
+.client-win:focus{
+  fill: currentColor;
+  background-color:#404bbf;
+}
 .contakt {
   font-style: normal;
 }
