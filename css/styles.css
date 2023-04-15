@@ -423,7 +423,7 @@ footer {
   background-color: #2e2f42;
   padding: 100px 0;
 }
-.footer-container{
+.card-set{
   display: flex;
   align-items: baseline;
   margin-right: 120px
