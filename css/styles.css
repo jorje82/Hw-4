@@ -429,6 +429,9 @@ footer {
   margin-right: 120px;
   gap: 120px;
 }
+footer-soc-ul{
+  gap: 16px;
+}
 .footer-social{
   font-weight: 500;
   font-size: 16px;
@@ -447,7 +450,7 @@ footer {
     background-color:#4d5ae5;
    border-radius: 50%;
    fill: #F4F4FD;
-   gap: 16px;
+
 
 }
 .footer-item:hover,
