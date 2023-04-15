@@ -340,18 +340,18 @@ align-items: center;
 justify-content: center;
 width: 168px;
 height: 88px;
-color:  #FFFFFF;
+color:  #8e8f99;;
 border: 1px solid #8E8F99;
 border-radius: 4px;
 }
-.menu-clienys:hover,
-.menu-clienys:focus {
+.class-clitnys:hover,
+.class-clitnys:focus {
 border: 1px solid #404bbf;
 border-radius: 4px;
 }
 .client-win{
   fill: currentColor;
-  color: #8E8F99;
+  
 }
 .client-win:hover,
 .client-win:focus {
