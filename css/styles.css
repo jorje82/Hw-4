@@ -347,14 +347,17 @@ border-radius: 4px;
 .menu-clienys:hover,
 .menu-clienys:focus {
 border: 1px solid #404bbf;
-fill: #404bbf;
 border-radius: 4px;
 }
 .client-win{
   fill: currentColor;
   color: #8E8F99;
-  
 }
+.client-win:hover,
+.client-win:focus {
+  fill: currentColor;
+ color: #404bbf;}
+
 .contakt {
   font-style: normal;
 }
