@@ -312,10 +312,15 @@ justify-content: center;
     height: 40px;
     background-color:#4d5ae5;
    border-radius: 50%;
+   fill: #F4F4FD;
 
 }
+.socials-item:hover,
+.socials-item:focus{
+  background-color: #404bbf;
+}
 social-content-item{
-  fill: var(--social-icon-color);
+ 
 }
 /*fifth section*/
 .social-media{
