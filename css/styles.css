@@ -331,32 +331,31 @@ img {
   align-items: center;
   gap: 24px;
 }
-.menu-clients{
 
-}
-.class-clitnys{
+.menu-clienys{
 display: flex;
 align-items: center;
 justify-content: center;
+color:  #8e8f99;  
 width: 168px;
 height: 88px;
-color:  #8e8f99;;
 border: 1px solid #8E8F99;
 border-radius: 4px;
 }
-.class-clitnys:hover,
-.class-clitnys:focus {
-  border-color: #404bbf;
-border-radius: 4px;
+.menu-clienys:hover,
+.menu-clienys:focus {
+border-color: #404bbf;
+}
+.class-clitnys{
+
 }
 .client-win{
-  fill: currentColor;
-  
+  fill:#8E8F99;
+  border-color: #404bbf;
 }
 .client-win:hover,
 .client-win:focus {
-  fill: currentColor;
-  border-color: #404bbf;}
+  fill: #404bbf;}
 
 .contakt {
   font-style: normal;
