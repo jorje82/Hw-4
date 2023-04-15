@@ -319,7 +319,8 @@ img {
   padding-top: 120px;
   padding-bottom: 120px;
 }
-.Feedback{
+.Feedback{display: flex;
+  justify-content: center;
   font-size: 36px;
   color: #2e2f42;
   margin-bottom: 72px;
@@ -327,10 +328,20 @@ img {
 }
 .clients{
   display: flex;
+  align-items: center;
   gap: 24px;
 }
 .menu-clients{
 
+}
+.class-clitnys{
+display: flex;
+align-items: center;
+justify-content: center;
+width: 168px;
+height: 88px;
+border: 1px solid #8e8f99;
+border-radius: 4px;
 }
 .client-win{
   fill: currentColor;
