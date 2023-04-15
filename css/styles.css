@@ -341,9 +341,9 @@ width: 168px;
 height: 88px;
 border: 1px solid #8E8F99;
 border-radius: 4px;
-}
-.class-clitnys:hover,
-.class-clitnys:focus {
+} 
+.class-clitnys:focus,
+.class-clitnys:hover{
 border-color: #404bbf;
 }
 .class-clitnys{
@@ -351,11 +351,13 @@ border-color: #404bbf;
 }
 .client-win{
   fill:currentColor;
-  border-color: #404bbf;
+ ;
 }
 .client-win:hover,
 .client-win:focus {
-  fill: #404bbf;}
+  fill:currentColor;
+  border-color: #404bbf;
+}
 
 .contakt {
   font-style: normal;
