@@ -297,21 +297,22 @@ img {
   border-radius: 0px 0px 4px 4px;
 }
 /*socials*/
-.socials {
+.socilas {
   display: flex;
   justify-content: center;
   gap: 24px;
 }
-.socilas-linl {
+.socials-item{
+  display: flex;
+  justify-content: center;
+  align-items: center;
   width: 40px;
   height: 40px;
   background-color: #4d5ae5;
   border-radius: 50%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  
 }
-.socials-item {
+.socials-linl {
   background: #f4f4fd;
 }
 /*fifth section*/
@@ -329,14 +330,16 @@ img {
 .clients{
   display: flex;
   align-items: center;
+  justify-content: center;
   gap: 24px;
 }
 
 .class-clitnys{
-display: flex;
-align-items: center;
-justify-content: center;
-color:  #8e8f99;  
+   display: flex;
+  align-items: center;
+  justify-content: center;
+color:  #8e8f99; 
+padding: 16px 32px; 
 width: 168px;
 height: 88px;
 border: 1px solid #8E8F99;
@@ -346,16 +349,14 @@ border-radius: 4px;
 .class-clitnys:hover{
 border-color: #404bbf;
 }
-.class-clitnys{
 
-}
 .client-win{
-  fill:#8E8F99;
-  width="104px";
-  height="56px";
+ fill: currentColor;
+ 
 }
-.client-win:hover,
-.client-win:focus{
+.class-clitnys:focus,
+.class-clitnys:hover,
+.client-win {
   border-color: #404bbf;
 }
 
