@@ -350,7 +350,7 @@ border-color: #404bbf;
 
 }
 .client-win{
-  fill:#8E8F99;
+  fill:currentColor;
   border-color: #404bbf;
 }
 .client-win:hover,
