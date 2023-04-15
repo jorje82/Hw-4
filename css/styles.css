@@ -330,9 +330,11 @@ img {
   gap: 24px;
 }
 .menu-clients{
-  
-}
 
+}
+.client-win{
+  fill: currentColor;
+}
 
 .contakt {
   font-style: normal;
