@@ -380,16 +380,20 @@ height: 88px;
 border: 1px solid #8E8F99;
 border-radius: 4px;
 
+
 } 
 .class-clitnys:hover,
 .class-clitnys:focus{
   border-color: #404bbf;
+  color: #404bbf;
 }
 .client-win{
   fill:currentColor;
 }
-.class-clitnys .client-win:hover,
-.class-clitnys .client-win:focus{
+.class-clitnys:hover .client-win{
+fill: #404bbf;
+}
+.class-clitnys:focus .client-win{
 fill: #404bbf;
 }
 
