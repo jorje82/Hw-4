@@ -374,7 +374,7 @@ border-radius: 4px;
 }
 .class-clitnys .client-win:hover,
 .class-clitnys .client-win:focus{
- border-color: #404bbf;
+color: #404bbf;
 }
 .contakt {
   font-style: normal;
