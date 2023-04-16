@@ -354,21 +354,19 @@ social-content-item{
   gap: 24px;
 }
 
-.class-clitnys{
+.menu-clienys{
    display: flex;
   align-items: center;
   justify-content: center;
-
+color: #8E8F99;
 width: 168px;
 height: 88px;
 border: 1px solid #8E8F99;
 border-radius: 4px;
 
 } 
-
-
-.class-clitnys:focus,
-.class-clitnys:hover {
+.menu-clienys:hover,
+.menu-clienys:focus{
   border-color: #404bbf;
 }
 .client-win{
