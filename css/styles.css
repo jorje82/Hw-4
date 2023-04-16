@@ -347,6 +347,22 @@ social-content-item{
   margin-bottom: 72px;
   line-height: 1.1
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .clients{
   display: flex;
   align-items: center;
@@ -376,6 +392,15 @@ border-radius: 4px;
 .class-clitnys .client-win:focus{
 fill: #404bbf;
 }
+
+
+
+
+
+
+
+
+
 .contakt {
   font-style: normal;
 }
