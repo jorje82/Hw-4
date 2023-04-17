@@ -388,7 +388,7 @@ border-radius: 4px;
   color: #404bbf;
 }
 .client-win{
-  fill:currentColor;
+  fill: currentColor;
 }
 .class-clitnys:hover .client-win{
 fill: #404bbf;
