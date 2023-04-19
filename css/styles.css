@@ -144,7 +144,7 @@ img {
   letter-spacing: 0.02em;
   text-transform: inherit;
   color: #ffffff;
-  max-width: 496px;
+  max-width: 596px;
   margin-bottom: 48px;
   margin-left: auto;
   margin-right: auto;
@@ -161,7 +161,6 @@ img {
   letter-spacing: 0.04em;
   color: #ffffff;
   cursor: pointer;
-  display: block;
   min-width: 169px;
   height: 56px;
 }
