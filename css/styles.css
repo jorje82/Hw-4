@@ -1,6 +1,6 @@
 :root {
-  --main-font: 'Roboto';
-  --secondary-font: 'Raleway';
+  --main-font:v 'Roboto', sans-serif;
+  --secondary-font: 'Raleway', sans-serif;
 
   --bazic-text-color: #434455;
   --titel-text-color: #2e2f42;
@@ -72,7 +72,6 @@ img {
 .navigation {
   display: flex;
   align-items: center;
-  gap: 76px;
 }
 .logo-link {
   font-family: 'Raleway', sans-serif;
@@ -138,13 +137,14 @@ img {
     url(../images/hero/people-office.jpg);
 }
 .hero-title {
+  font-family: 'Roboto', sans-serif;
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
   text-transform: inherit;
   color: #ffffff;
-  max-width: 596px;
+  max-width: 496px;
   margin-bottom: 48px;
   margin-left: auto;
   margin-right: auto;
@@ -238,6 +238,8 @@ img {
   margin-bottom: 8px;
 }
 .advantades-title {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -246,6 +248,7 @@ img {
   margin-bottom: 8px;
 }
 .advantades-article {
+  font-family: 'Roboto', sans-serif;
   font-size: 16px;
   line-height: 1.5;
   color: #434455;
