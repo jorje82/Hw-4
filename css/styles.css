@@ -1,5 +1,5 @@
 :root {
-  --main-font:v 'Roboto', sans-serif;
+  --main-font: 'Roboto', sans-serif;
   --secondary-font: 'Raleway', sans-serif;
 
   --bazic-text-color: #434455;
@@ -92,6 +92,7 @@ img {
   gap: 40px;
 }
 .menu-link {
+  font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -117,6 +118,7 @@ img {
   color: #404bbf;
 }
 .contakt-link {
+  font-family: 'Roboto', sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -195,6 +197,7 @@ img {
   color: #ffffff;
   border: 1px solid transparent;
 }
+
 .hero-button:hover,
 .hero-button:focus {
   background: #404bbf;
@@ -218,7 +221,11 @@ img {
   border-top: none;
 }
 .portfolio-title {
+  font-family: 'Roboto', sans-serif;
   margin-bottom: 8px;
+}
+.portfolio-article{
+  font-family: 'Roboto', sans-serif;
 }
 /*what are*/
 .advantades {
@@ -261,6 +268,7 @@ img {
   padding-bottom: 120px;
 }
 .section-title {
+  font-family: 'Roboto', sans-serif;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -288,6 +296,7 @@ img {
  
 }
 .command-subtitle {
+  font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -298,6 +307,7 @@ img {
 }
 
 .command-item {
+  font-family: 'Roboto', sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -444,6 +454,7 @@ fill: #404bbf;
   color: #f4f4fd;
 }
 .adress-link {
+  font-family: 'Roboto', sans-serif;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
