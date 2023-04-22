@@ -467,7 +467,6 @@ footer {
 .card-set{
   display: flex;
   align-items: baseline;
-  margin-right: 120px;
   gap: 120px;
 }
 .footsoc{
