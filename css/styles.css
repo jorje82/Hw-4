@@ -467,7 +467,10 @@ footer {
 .card-set{
   display: flex;
   align-items: baseline;
-  gap: 120px;
+ 
+}
+.footer-container{
+   margin-right: 120px;
 }
 .footsoc{
 display: flex;
