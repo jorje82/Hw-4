@@ -341,6 +341,7 @@ box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.1
 .command-list {
   display: flex;
   gap: 24px;
+  border-radius: 0px 0px 4px 4px;
  
 }
 .command-subtitle {
